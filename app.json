@@ -2,5 +2,9 @@
   "name": "bronismanis",
   "description": "python app",
   "stack": "container",
+  "env": {
+  "AUTH": {
+    "description": "<user:pass>."
+  }
   }
 }
